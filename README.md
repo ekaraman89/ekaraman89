@@ -9,13 +9,13 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=ekaraman89&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Emrah's github stats" />
 </p>
  <br/>
- <a href="https://twitter.com/emrah_karaman">
+ <a href="https://twitter.com/emrah_karaman" target="_blank">
   <img align="left" alt="Emrah Karaman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/emrah-karaman-09357148/">
+<a href="https://www.linkedin.com/in/emrah-karaman-09357148/" target="_blank">
   <img align="left" alt="Emrah Karaman" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/ekaraman">
+<a href="https://t.me/ekaraman" target="_blank">
   <img align="left" alt="Emrah Karaman" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <br/>
