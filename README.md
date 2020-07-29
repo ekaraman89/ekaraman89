@@ -11,10 +11,7 @@
 
 ## Summary of my life
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-<br>
-<br>
-<br>
-<br>
+<hr>
 <a href="https://twitter.com/emrah_karaman">
   <img align="left" alt="Emrah Karaman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -24,3 +21,4 @@
 <a href="https://t.me/ekaraman">
   <img align="left" alt="Emrah Karaman" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+
